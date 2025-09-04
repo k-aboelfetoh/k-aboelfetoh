@@ -101,11 +101,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-aboelfetoh&show_icons=true&theme=tokyonight&hide_border=true&order=1" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-aboelfetoh&layout=compact&theme=tokyonight&hide_border=true&order=2" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-aboelfetoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-aboelfetoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -120,3 +120,4 @@
   </picture>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
