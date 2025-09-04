@@ -11,7 +11,7 @@
 <h3 align="left">📤 Connect with Me :</h3>
 
 <div align="center">
-  <a href="kk3303" target="_blank">
+  <a href="kk3303">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.facebook.com/Alfetoh" target="_blank">
@@ -120,4 +120,5 @@
   </picture>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
